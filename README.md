@@ -1,8 +1,8 @@
 # README.md
-## News App
+## PITCHWORLD
 The project was done using python3.6
 ## Description
-An application that helps us remain updated on current issues arouond the world by providing news headlines and diffrent sources to reading the news.
+An application allows users to create pitches and rate other pitches created by different app users.
 
 ## Created by :
 Cathrine Kanini
