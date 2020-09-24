@@ -7,7 +7,8 @@ An application that helps us remain updated on current issues arouond the world 
 ## Created by :
 Cathrine Kanini
 
-Behaviour Driven Development BDD Functions of the Web application 1.The application allows user to search for news articles,
+Behaviour Driven Development BDD Functions of the Web application 
+1.The application allows user to sign in their details
 
 2.Allows users to read news from different sources and articles.
 
