@@ -1,5 +1,7 @@
 import os
 
+
+
 class Config:
     '''
     General configuration parent class
@@ -7,7 +9,7 @@ class Config:
     SECRET_KEY=os.environ.get('SECRET_KEY')
     SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://kate:Kanini12@localhost/pitchworld'
     UPLOADED_PHOTOS_DEST ='app/static'
-    SQLALCHEMY_TRACK_MODIFICATIONS=True
+    SQLALCHEMY_TRACK_MODIFICATIONS=False
     # email configurations
     MAIL_SERVER = 'smtp.googlemail.com'
     MAIL_PORT = 587
@@ -45,7 +47,7 @@ class DevConfig(Config):
     SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://kate:Kanini12@localhost/pitchworld'
 
     DEBUG = True
-    ENV = 'development'
+    # ENV = 'development'
     
 config_options = {
 'development':DevConfig,
