@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% import 'macros.html' as macro %}
+
+{%block content%}
+<!-- <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Ranga" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
+<div class="jumbotron text-center" style="background-color: #382228; color: #fff; padding: 100px 25px; font-family: 'Times-roman', cursive;">
+    <h1>Advertise Pitches</h1>
+</div>
+<div class="container" style="font-family: 'Indie+Flower', cursive;">
+    <hr>
+    <div class="row">
+        {{macro.displayPitches(pitches)}}
+    </div>
+</div>
+{%endblock%}
