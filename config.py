@@ -10,6 +10,7 @@ class Config:
     SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://kate:Kanini12@localhost/pitchworld'
     UPLOADED_PHOTOS_DEST ='app/static'
     SQLALCHEMY_TRACK_MODIFICATIONS=False
+    # WTF_CSRF_ENABLED = True
     # email configurations
     MAIL_SERVER = 'smtp.googlemail.com'
     MAIL_PORT = 587
