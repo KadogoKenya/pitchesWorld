@@ -1,5 +1,5 @@
 # README.md
-News App
+## News App
 The project was done using python3.6
 Description
 An application that helps us remain updated on current issues arouond the world by providing news headlines and diffrent sources to reading the news.
