@@ -18,10 +18,14 @@ https://github.com/KadogoKenya/pitchesWorld.git
 
 2.You can use this command (git clone my link) to clone the project to your machine. 3. cd into the folder which contains the files.
 
-4.Run python3.6 News-App.py to launch the program.
+4.Run python3.8 pitchWorld.py to launch the program.
 
 Technologies used Python
 
+SqlAlchemy
+python3.8
+html
+css
 flask
 
 python dotenv
