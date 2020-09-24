@@ -1,10 +1,10 @@
 # README.md
 ## News App
 The project was done using python3.6
-Description
+## Description
 An application that helps us remain updated on current issues arouond the world by providing news headlines and diffrent sources to reading the news.
 
-Created by :
+## Created by :
 Cathrine Kanini
 
 Behaviour Driven Development BDD Functions of the Web application 1.The application allows user to search for news articles,
