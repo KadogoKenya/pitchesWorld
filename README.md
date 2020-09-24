@@ -10,7 +10,8 @@ Cathrine Kanini
 Behaviour Driven Development BDD Functions of the Web application 
 1.The application allows user to sign in their details
 
-2.Allows users to read news from different sources and articles.
+2.It allows users to create pitches.
+3. 
 
 Setup/Installation requirements 1.Clone or download and unzip the repository from github https://github.com/KadogoKenya/News-App.git
 
