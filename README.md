@@ -13,7 +13,8 @@ Behaviour Driven Development BDD Functions of the Web application
 2. It allows users to create pitches.
 3. It also allows users to vote for other pictes
 
-Setup/Installation requirements 1.Clone or download and unzip the repository from github https://github.com/KadogoKenya/News-App.git
+Setup/Installation requirements 1.Clone or download and unzip the repository from github:
+https://github.com/KadogoKenya/pitchesWorld.git
 
 2.You can use this command (git clone my link) to clone the project to your machine. 3. cd into the folder which contains the files.
 
