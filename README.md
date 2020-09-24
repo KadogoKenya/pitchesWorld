@@ -8,10 +8,10 @@ An application that helps us remain updated on current issues arouond the world 
 Cathrine Kanini
 
 Behaviour Driven Development BDD Functions of the Web application 
-1.The application allows user to sign in their details
+1. The application allows user to sign in their details
 
-2.It allows users to create pitches.
-3. 
+2. It allows users to create pitches.
+3. It also allows users to vote for other pictes
 
 Setup/Installation requirements 1.Clone or download and unzip the repository from github https://github.com/KadogoKenya/News-App.git
 
